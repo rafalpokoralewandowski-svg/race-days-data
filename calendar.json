@@ -1,12 +1,12 @@
 {
  "v": 5,
- "savedAt": 1790814458885,
+ "savedAt": 1790816764976,
  "series": [
   {
    "id": "imsa",
    "name": "IMSA WeatherTech SportsCar Championship",
    "short": "IMSA",
-   "color": "#C8102E",
+   "color": "#f5ec00",
    "visible": true,
    "logo": "imsa"
   },
