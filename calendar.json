@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790846573791,
+ "savedAt": 1790846603513,
  "series": [
   {
    "id": "imsa",
@@ -15,7 +15,7 @@
    "name": "FIA World Endurance Championship",
    "short": "WEC",
    "color": "#1D5FA8",
-   "visible": true,
+   "visible": false,
    "logo": "wec"
   },
   {
@@ -23,7 +23,7 @@
    "name": "Nürburgring Langstrecken-Serie",
    "short": "NLS",
    "color": "#2F8F4E",
-   "visible": true,
+   "visible": false,
    "logo": "nring"
   },
   {
@@ -31,7 +31,7 @@
    "name": "GT World Challenge Europe",
    "short": "GTWC",
    "color": "#6B3FA0",
-   "visible": true,
+   "visible": false,
    "logo": null
   },
   {
