@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790849311377,
+ "savedAt": 1790849345511,
  "series": [
   {
    "id": "imsa",
@@ -39,7 +39,7 @@
    "name": "ABB FIA Formula E World Championship",
    "short": "FE",
    "color": "#0E8C95",
-   "visible": true,
+   "visible": false,
    "logo": null
   },
   {
