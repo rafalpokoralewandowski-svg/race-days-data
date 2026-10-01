@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790849308390,
+ "savedAt": 1790849311377,
  "series": [
   {
    "id": "imsa",
@@ -31,7 +31,7 @@
    "name": "GT World Challenge Europe",
    "short": "GTWC",
    "color": "#6B3FA0",
-   "visible": false,
+   "visible": true,
    "logo": null
   },
   {
@@ -39,7 +39,7 @@
    "name": "ABB FIA Formula E World Championship",
    "short": "FE",
    "color": "#0E8C95",
-   "visible": false,
+   "visible": true,
    "logo": null
   },
   {
