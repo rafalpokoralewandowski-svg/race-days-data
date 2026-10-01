@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790849345511,
+ "savedAt": 1790849530856,
  "series": [
   {
    "id": "imsa",
@@ -15,7 +15,7 @@
    "name": "FIA World Endurance Championship",
    "short": "WEC",
    "color": "#1D5FA8",
-   "visible": true,
+   "visible": false,
    "logo": "wec"
   },
   {
