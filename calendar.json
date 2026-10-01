@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 0,
+ "savedAt": 1790814247415,
  "series": [
   {
    "id": "imsa",
@@ -1512,6 +1512,10 @@
    "color": null
   }
  ],
- "status": {},
+ "status": {
+  "2027-01": {
+   "3": "REMOTE"
+  }
+ },
  "device": "Desktop"
 }
