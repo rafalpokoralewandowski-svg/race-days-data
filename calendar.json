@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790846606073,
+ "savedAt": 1790846608992,
  "series": [
   {
    "id": "imsa",
@@ -56,7 +56,7 @@
    "name": "Family Holidays",
    "short": "FAMILY",
    "color": "#d38301",
-   "visible": true,
+   "visible": false,
    "logo": null
   }
  ],
