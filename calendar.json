@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790814325890,
+ "savedAt": 1790814458885,
  "series": [
   {
    "id": "imsa",
@@ -47,7 +47,7 @@
    "name": "Transporter from the NJ workshop",
    "short": "Truck",
    "color": "#7A5230",
-   "visible": true,
+   "visible": false,
    "logo": null,
    "travel": true
   }
