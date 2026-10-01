@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790816764976,
+ "savedAt": 1790816828420,
  "series": [
   {
    "id": "imsa",
@@ -50,6 +50,14 @@
    "visible": false,
    "logo": null,
    "travel": true
+  },
+  {
+   "id": "smuou3ihc",
+   "name": "Family Holidays",
+   "short": "FAMILY",
+   "color": "#d38301",
+   "visible": true,
+   "logo": null
   }
  ],
  "events": [
