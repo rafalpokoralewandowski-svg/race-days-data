@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790848937216,
+ "savedAt": 1790849096652,
  "series": [
   {
    "id": "imsa",
@@ -1518,6 +1518,24 @@
    "source": "Formula E Season 13 calendar, released 23 Jun 2026, and Jarama test announcement (fiaformulae.com)",
    "series": "fe",
    "color": null
+  },
+  {
+   "id": "emupdbaocn5p0",
+   "source": "Added by you",
+   "series": "nls",
+   "round": "NLS 24H",
+   "title": "Nordschleife 24H",
+   "tag": "NLS24",
+   "kind": "Race",
+   "circuit": "Nordschleife",
+   "country": "Germany",
+   "start": "2027-05-27",
+   "end": "2027-05-30",
+   "race": "2027-05-29",
+   "race2": "",
+   "status": "Confirmed",
+   "notes": "",
+   "color": "#f5ec00"
   }
  ],
  "status": {
