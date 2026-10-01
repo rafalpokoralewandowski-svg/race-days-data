@@ -1,13 +1,13 @@
 {
  "v": 5,
- "savedAt": 1790846608992,
+ "savedAt": 1790846616617,
  "series": [
   {
    "id": "imsa",
    "name": "IMSA WeatherTech SportsCar Championship",
    "short": "IMSA",
    "color": "#f5ec00",
-   "visible": true,
+   "visible": false,
    "logo": "imsa"
   },
   {
@@ -15,7 +15,7 @@
    "name": "FIA World Endurance Championship",
    "short": "WEC",
    "color": "#1D5FA8",
-   "visible": false,
+   "visible": true,
    "logo": "wec"
   },
   {
