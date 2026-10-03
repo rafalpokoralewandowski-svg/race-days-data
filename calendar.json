@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1791001178424,
+ "savedAt": 1791001199034,
  "series": [
   {
    "id": "imsa",
@@ -1567,7 +1567,7 @@
    "id": "emurvt9owlg5b",
    "source": "Added by you",
    "series": "smurvof2g",
-   "round": "",
+   "round": "ASLM2",
    "title": "Jerez",
    "tag": "ASLM",
    "kind": "Race",
@@ -1585,7 +1585,7 @@
    "id": "emurvud74y91j",
    "source": "Added by you",
    "series": "smurvof2g",
-   "round": "",
+   "round": "ASLM3",
    "title": "Portimao",
    "tag": "ASLM Portimao",
    "kind": "Race",
