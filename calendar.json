@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1790849530856,
+ "savedAt": 1791000887059,
  "series": [
   {
    "id": "imsa",
@@ -56,6 +56,14 @@
    "name": "Family Holidays",
    "short": "FAMILY",
    "color": "#d38301",
+   "visible": true,
+   "logo": null
+  },
+  {
+   "id": "smurvof2g",
+   "name": "Asian Le Mans",
+   "short": "ASLM",
+   "color": "#df0cb8",
    "visible": true,
    "logo": null
   }
@@ -1549,5 +1557,5 @@
    "17": "ON-SITE"
   }
  },
- "device": "iPhone"
+ "device": "Desktop"
 }
