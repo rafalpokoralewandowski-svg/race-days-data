@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1791000887059,
+ "savedAt": 1791001034938,
  "series": [
   {
    "id": "imsa",
@@ -1544,6 +1544,24 @@
    "status": "Confirmed",
    "notes": "",
    "color": "#f5ec00"
+  },
+  {
+   "id": "emurvruz4funb",
+   "source": "Added by you",
+   "series": "smurvof2g",
+   "round": "",
+   "title": "Le Castellet",
+   "tag": "PRIC",
+   "kind": "Race",
+   "circuit": "Paul Ricard",
+   "country": "France",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "race": "2026-11-15",
+   "race2": "",
+   "status": "Provisional",
+   "notes": "",
+   "color": null
   }
  ],
  "status": {
