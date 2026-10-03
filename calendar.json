@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1791001305366,
+ "savedAt": 1791002054818,
  "series": [
   {
    "id": "imsa",
@@ -39,7 +39,7 @@
    "name": "ABB FIA Formula E World Championship",
    "short": "FE",
    "color": "#0E8C95",
-   "visible": false,
+   "visible": true,
    "logo": null
   },
   {
@@ -47,7 +47,7 @@
    "name": "Transporter from the NJ workshop",
    "short": "Truck",
    "color": "#7A5230",
-   "visible": false,
+   "visible": true,
    "logo": null,
    "travel": true
   },
@@ -1629,5 +1629,5 @@
    "17": "ON-SITE"
   }
  },
- "device": "Desktop"
+ "device": "iPhone"
 }
