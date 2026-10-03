@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1791001218803,
+ "savedAt": 1791001305366,
  "series": [
   {
    "id": "imsa",
@@ -1594,6 +1594,24 @@
    "start": "2027-02-19",
    "end": "2027-02-21",
    "race": "2027-02-21",
+   "race2": "",
+   "status": "Provisional",
+   "notes": "",
+   "color": null
+  },
+  {
+   "id": "emurvxnmqh24n",
+   "source": "Added by you",
+   "series": "imsa",
+   "round": "",
+   "title": "IMSA Sanction Test Daytona",
+   "tag": "IMSA TEST",
+   "kind": "Test",
+   "circuit": "DAYTONA",
+   "country": "USA",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "race": "",
    "race2": "",
    "status": "Provisional",
    "notes": "",
