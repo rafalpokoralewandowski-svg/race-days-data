@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1792025710560,
+ "savedAt": 1792025714442,
  "series": [
   {
    "id": "imsa",
@@ -31,7 +31,7 @@
    "name": "GT World Challenge Europe",
    "short": "GTWC",
    "color": "#6B3FA0",
-   "visible": true,
+   "visible": false,
    "logo": null
   },
   {
