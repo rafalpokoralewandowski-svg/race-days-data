@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1792025725949,
+ "savedAt": 1792025762905,
  "series": [
   {
    "id": "imsa",
@@ -1627,6 +1627,9 @@
    "15": "ON-SITE",
    "16": "ON-SITE",
    "17": "ON-SITE"
+  },
+  "2026-11": {
+   "15": "TRAVEL"
   }
  },
  "device": "Desktop"
