@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1792032955315,
+ "savedAt": 1792052111108,
  "series": [
   {
    "id": "imsa",
@@ -64,7 +64,7 @@
    "name": "Asian Le Mans",
    "short": "ASLM",
    "color": "#df0cb8",
-   "visible": true,
+   "visible": false,
    "logo": null
   }
  ],
@@ -1649,5 +1649,5 @@
    "11": "REMOTE"
   }
  },
- "device": "iPhone"
+ "device": "Desktop"
 }
