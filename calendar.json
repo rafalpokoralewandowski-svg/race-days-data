@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1792025708746,
+ "savedAt": 1792025710560,
  "series": [
   {
    "id": "imsa",
@@ -23,7 +23,7 @@
    "name": "Nürburgring Langstrecken-Serie",
    "short": "NLS",
    "color": "#2F8F4E",
-   "visible": true,
+   "visible": false,
    "logo": "nring"
   },
   {
