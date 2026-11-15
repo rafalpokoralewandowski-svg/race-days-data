@@ -1,6 +1,6 @@
 {
  "v": 5,
- "savedAt": 1794758297605,
+ "savedAt": 1794758302914,
  "series": [
   {
    "id": "imsa",
@@ -31,7 +31,7 @@
    "name": "GT World Challenge Europe",
    "short": "GTWC",
    "color": "#6B3FA0",
-   "visible": true,
+   "visible": false,
    "logo": null
   },
   {
@@ -56,7 +56,7 @@
    "name": "Family Holidays",
    "short": "FAMILY",
    "color": "#d38301",
-   "visible": true,
+   "visible": false,
    "logo": null
   },
   {
@@ -64,7 +64,7 @@
    "name": "Asian Le Mans",
    "short": "ASLM",
    "color": "#df0cb8",
-   "visible": true,
+   "visible": false,
    "logo": null
   }
  ],
