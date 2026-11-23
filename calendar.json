@@ -1,6 +1,6 @@
 {
- "v": 5,
- "savedAt": 1794851321873,
+ "v": 6,
+ "savedAt": 1795443110217,
  "series": [
   {
    "id": "imsa",
@@ -222,12 +222,12 @@
    "title": "Road America 6 Hours",
    "circuit": "Road America",
    "country": "USA",
-   "start": "2027-07-29",
-   "end": "2027-08-01",
-   "race": "2027-08-01",
+   "start": "2027-08-05",
+   "end": "2027-08-08",
+   "race": "2027-08-08",
    "kind": "Race",
    "status": "Confirmed",
-   "source": "IMSA 2027 schedule, released 19 Mar 2026 (imsa.com / sportscar365.com)",
+   "source": "IMSA 2027 schedule (imsa.com); weekend moved from 29 Jul-1 Aug to 5-8 Aug, announced 25 Aug 2026",
    "notes": "Endurance Cup",
    "race2": ""
   },
@@ -941,12 +941,12 @@
    "title": "Truck to Road America 6 Hours",
    "circuit": "From New Jersey workshop",
    "country": "USA",
-   "start": "2027-07-26",
-   "end": "2027-07-27",
-   "race": "2027-07-26",
+   "start": "2027-08-02",
+   "end": "2027-08-03",
+   "race": "2027-08-02",
    "kind": "Travel",
    "status": "Planned",
-   "notes": "927 mi, 2 driving days; arrive by Tue 27 Jul.",
+   "notes": "927 mi, 2 driving days; arrive by Tue 3 Aug.",
    "source": "Logistics estimate",
    "color": null,
    "race2": ""
@@ -1662,5 +1662,5 @@
    "11": "REMOTE"
   }
  },
- "device": "iPhone"
+ "device": "Desktop"
 }
